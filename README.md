@@ -12,4 +12,6 @@ step1.將labelImg工作完之後的.xml檔轉換為csv檔
 step1.使用遷移學習來訓練此模型，遷移模型可在開源模型庫找到[github上的模型庫](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md "模型庫")
 <br>　　　＊如果追求速度可以使用ssd_mobilenet
 <br>　　　＊追求精準度可以使用xception
+<br>(該模型還在調參數優化訓練中..)
 # 四、demo real-time檢測效果:
+<br>希望未來可以實現real-time的檢測效果。
